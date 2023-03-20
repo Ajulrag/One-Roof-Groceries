@@ -1,6 +1,6 @@
 const express = require('express');
 const cart = require('../controller/cart');
-const userAuth = require('../commonMiddleware');
+const userAuth = require('../commonMiddleware');fhgxf
 const order = require('../controller/order');
 const product = require('../controller/product');
 const { getUser } = require('../controller/user');
